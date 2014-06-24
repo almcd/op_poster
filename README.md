@@ -21,7 +21,7 @@ You will need a copy of Adobe InDesign installed on your computer, along with th
 
 
 ## Example Output
-![](http://imageurl)
+![Example Output](http://almcd.github.io/map.jpg)
 
 
 ## License
