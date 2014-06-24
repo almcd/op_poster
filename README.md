@@ -16,7 +16,7 @@ You will need a copy of Adobe InDesign installed on your computer, along with th
 1. Download your OpenPaths data from the Openpaths website. CSV or JSON is acceptable.
 1. Place your OpenPaths CSV or JSON file in the `data` folder.
 1. Open `map.jsx` in a text editor and update `data_source` to the name of your OpenPaths data CSV or JSON file.
-1. Create a new A3 document in InDesign with portrait orientation and save it to the `map` folder. All other settings can be left as default.
+1. Create a new A3 document in InDesign with portrait orientation and save it to the `op_poster` folder. All other settings can be left as default.
 1. Run the `map.jsx` script from the `Scripts` palette in InDesign.
 
 
