@@ -23,6 +23,8 @@ You will need a copy of Adobe InDesign installed on your computer, along with th
 ## Example Output
 ![Example Output](http://almcd.github.io/map.jpg)
 
+See also: http://mihyunkim.com/location.html
+
 
 ## License
 The MIT License (MIT)
